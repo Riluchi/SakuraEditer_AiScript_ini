@@ -1,0 +1,12 @@
+﻿// AiScript_keyword キーワード定義ファイル
+// CASE=False
+
+each
+elif
+else
+for
+if
+let
+null
+return
+var
